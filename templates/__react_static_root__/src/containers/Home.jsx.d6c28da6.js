@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{52:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),i=n(43);t.default=Object(i.withSiteData)((function(){return c.a.createElement("div",null,c.a.createElement("h1",{style:{textAlign:"center"}},"Welcome"))}))}}]);
